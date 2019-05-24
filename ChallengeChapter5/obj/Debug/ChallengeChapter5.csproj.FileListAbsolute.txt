@@ -1,0 +1,10 @@
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\bin\Debug\ChallengeChapter5.exe.config
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\bin\Debug\ChallengeChapter5.exe
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\bin\Debug\ChallengeChapter5.pdb
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.csprojAssemblyReference.cache
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.Form1.resources
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.Properties.Resources.resources
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.csproj.GenerateResource.cache
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.csproj.CoreCompileInputs.cache
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.exe
+C:\Projects\Project1\ChallengeChapter5\ChallengeChapter5\obj\Debug\ChallengeChapter5.pdb
